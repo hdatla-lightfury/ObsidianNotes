@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "dd4a7bdf19d76904",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca5ce83a49e7e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8d2d37fcb65c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6628b239bb9e316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LightFury/Titan-Jenkins-Server-Config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc45a3348a7854f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LightFury/Titan-Jenkins-Server-Config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "126c9d38cf668cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b0d3ac4f453177",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "808b83109c1ba740",
+    "type": "split",
+    "children": [
+      {
+        "id": "aede23e74818bcf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2b95257e61aae4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "771a733260389cca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02e346d92642e062",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34b8b96a9bdfe114",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fa7d10c37e8fe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f66f2a1ca4dca1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LightFury/Titan-Jenkins-Server-Config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c55b10aad51c7f42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LightFury/Titan-Jenkins-Server-Config.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0abc0c9d7a6f40fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81ee0846b7a4607a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LightFury/Titan-Jenkins-Server-Config.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc45a3348a7854f5",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "LightFury",
+    "LightFury/Titan-Jenkins-Server-Config.md",
+    "Welcome.md"
+  ]
+}
